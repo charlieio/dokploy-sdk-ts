@@ -1,5 +1,4 @@
 # Rollback
-(*rollback*)
 
 ## Overview
 

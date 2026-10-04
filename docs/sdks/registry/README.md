@@ -1,5 +1,4 @@
 # Registry
-(*registry*)
 
 ## Overview
 

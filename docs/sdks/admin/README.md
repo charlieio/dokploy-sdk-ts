@@ -1,5 +1,4 @@
 # Admin
-(*admin*)
 
 ## Overview
 

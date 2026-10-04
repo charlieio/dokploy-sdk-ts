@@ -1,5 +1,4 @@
 # Mongo
-(*mongo*)
 
 ## Overview
 
