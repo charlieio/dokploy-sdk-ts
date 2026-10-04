@@ -1,5 +1,4 @@
 # Ai
-(*ai*)
 
 ## Overview
 
