@@ -1,9 +1,9 @@
-speakeasyVersion: 1.631.0
+speakeasyVersion: 1.801.0
 sources:
     Dokploy API:
         sourceNamespace: dokploy-api
-        sourceRevisionDigest: sha256:4dc175c5fd273b53ce03d25702db7fe5d3fdc5cb6bcb3c02c1ace80a17bfb7d0
-        sourceBlobDigest: sha256:2bdb7d3656fe40f5635dd040ec7db89ecb2869e95326e57445f5b9407bbaf408
+        sourceRevisionDigest: sha256:ffaea27c55bdbf0c0ed96f5f2595bc4842658b5255826d8dcc138ba5a765e7e0
+        sourceBlobDigest: sha256:23d3136771d4f37c17e2749269b6d69b4b41acde1d5a80fdee875febbf251ab5
         tags:
             - latest
             - 1.0.0
@@ -18,10 +18,10 @@ targets:
     typescript:
         source: Dokploy API
         sourceNamespace: dokploy-api
-        sourceRevisionDigest: sha256:4dc175c5fd273b53ce03d25702db7fe5d3fdc5cb6bcb3c02c1ace80a17bfb7d0
-        sourceBlobDigest: sha256:2bdb7d3656fe40f5635dd040ec7db89ecb2869e95326e57445f5b9407bbaf408
+        sourceRevisionDigest: sha256:ffaea27c55bdbf0c0ed96f5f2595bc4842658b5255826d8dcc138ba5a765e7e0
+        sourceBlobDigest: sha256:23d3136771d4f37c17e2749269b6d69b4b41acde1d5a80fdee875febbf251ab5
         codeSamplesNamespace: dokploy-api-typescript-code-samples
-        codeSamplesRevisionDigest: sha256:b59cdd4647b296b849104f6590a3e07a1f93381cab47e474b42418fa2e0ae12d
+        codeSamplesRevisionDigest: sha256:74549219afe86cad171c3b7295bc56276b4d5fb335d63b499396490de0f2a548
 workflow:
     workflowVersion: 1.0.0
     speakeasyVersion: latest

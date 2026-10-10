@@ -1,5 +1,4 @@
 # Stripe
-(*stripe*)
 
 ## Overview
 

@@ -1,5 +1,4 @@
 # Gitea
-(*gitea*)
 
 ## Overview
 
