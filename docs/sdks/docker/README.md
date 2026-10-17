@@ -1,5 +1,4 @@
 # Docker
-(*docker*)
 
 ## Overview
 
