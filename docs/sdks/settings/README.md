@@ -1,5 +1,4 @@
 # Settings
-(*settings*)
 
 ## Overview
 

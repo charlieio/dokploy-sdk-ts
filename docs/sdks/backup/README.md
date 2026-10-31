@@ -1,5 +1,4 @@
 # Backup
-(*backup*)
 
 ## Overview
 
