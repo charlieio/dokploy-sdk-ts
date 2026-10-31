@@ -1,5 +1,4 @@
 # Redis
-(*redis*)
 
 ## Overview
 
