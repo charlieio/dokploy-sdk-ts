@@ -1,5 +1,4 @@
 # Redirects
-(*redirects*)
 
 ## Overview
 

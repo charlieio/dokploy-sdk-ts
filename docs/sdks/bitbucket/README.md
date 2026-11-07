@@ -1,5 +1,4 @@
 # Bitbucket
-(*bitbucket*)
 
 ## Overview
 

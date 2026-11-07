@@ -1,5 +1,4 @@
 # Swarm
-(*swarm*)
 
 ## Overview
 

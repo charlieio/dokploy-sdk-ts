@@ -1,5 +1,4 @@
-# GithubGet
-(*github.get*)
+# Github.Get
 
 ## Overview
 

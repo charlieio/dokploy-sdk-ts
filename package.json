@@ -1,6 +1,6 @@
 {
   "name": "dokploy-sdk",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": "Speakeasy",
   "type": "module",
   "tshy": {
@@ -21,7 +21,7 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/charliedevelops/dokploy-sdk-ts.git"
+    "url": "https://github.com/charlieio/dokploy-sdk-ts.git"
   },
   "scripts": {
     "lint": "eslint --cache --max-warnings=0 src",
@@ -30,15 +30,15 @@
   },
   "peerDependencies": {},
   "devDependencies": {
-    "@eslint/js": "^9.19.0",
-    "eslint": "^9.19.0",
+    "@eslint/js": "^9.26.0",
+    "eslint": "^9.26.0",
     "globals": "^15.14.0",
-    "tshy": "^2.0.0",
+    "tshy": "^3.3.2",
     "typescript": "~5.8.3",
     "typescript-eslint": "^8.26.0"
   },
   "dependencies": {
-    "zod": "^3.20.0"
+    "zod": "^3.25.0 || ^4.0.0"
   },
   "exports": {
     ".": {
