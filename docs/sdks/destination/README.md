@@ -1,5 +1,4 @@
 # Destination
-(*destination*)
 
 ## Overview
 
