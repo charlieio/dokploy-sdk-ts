@@ -1,5 +1,4 @@
 # Github
-(*github*)
 
 ## Overview
 

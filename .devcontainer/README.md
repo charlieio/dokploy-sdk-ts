@@ -1,6 +1,6 @@
 
 <div align="center">
-    <a href="https://codespaces.new/charliedevelops/dokploy-sdk-ts.git/tree/main"><img src="https://github.com/codespaces/badge.svg" /></a>
+    <a href="https://codespaces.new/charlieio/dokploy-sdk-ts.git/tree/main"><img src="https://github.com/codespaces/badge.svg" /></a>
 </div>
 <br>
 

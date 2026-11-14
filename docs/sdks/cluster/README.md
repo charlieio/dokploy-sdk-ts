@@ -1,5 +1,4 @@
 # Cluster
-(*cluster*)
 
 ## Overview
 
