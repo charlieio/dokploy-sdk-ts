@@ -1,5 +1,4 @@
-# DockerGet
-(*docker.get*)
+# Docker.Get
 
 ## Overview
 

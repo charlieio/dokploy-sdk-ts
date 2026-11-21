@@ -6,7 +6,7 @@
 import { DockerGetContainersByAppLabelRequest } from "dokploy-sdk/models/operations";
 
 let value: DockerGetContainersByAppLabelRequest = {
-  appName: "<value>",
+  appName: "abc",
   type: "swarm",
 };
 ```

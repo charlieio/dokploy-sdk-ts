@@ -1,5 +1,4 @@
 # Deployment
-(*deployment*)
 
 ## Overview
 

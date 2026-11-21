@@ -1,5 +1,4 @@
 # Mysql
-(*mysql*)
 
 ## Overview
 
