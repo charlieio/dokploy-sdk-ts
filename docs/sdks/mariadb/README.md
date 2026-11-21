@@ -1,5 +1,4 @@
 # Mariadb
-(*mariadb*)
 
 ## Overview
 

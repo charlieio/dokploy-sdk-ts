@@ -1,5 +1,4 @@
 # GitProviders
-(*gitProviders*)
 
 ## Overview
 
