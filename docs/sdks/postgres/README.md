@@ -1,5 +1,4 @@
 # Postgres
-(*postgres*)
 
 ## Overview
 

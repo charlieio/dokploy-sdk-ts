@@ -1,5 +1,4 @@
-# BitbucketGet
-(*bitbucket.get*)
+# Bitbucket.Get
 
 ## Overview
 

@@ -1,5 +1,4 @@
 # Mounts
-(*mounts*)
 
 ## Overview
 

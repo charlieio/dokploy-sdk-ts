@@ -6,7 +6,7 @@
 import { DockerGetStackContainersByAppNameRequest } from "dokploy-sdk/models/operations";
 
 let value: DockerGetStackContainersByAppNameRequest = {
-  appName: "<value>",
+  appName: "abc",
 };
 ```
 
