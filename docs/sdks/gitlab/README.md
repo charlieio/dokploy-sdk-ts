@@ -1,5 +1,4 @@
 # Gitlab
-(*gitlab*)
 
 ## Overview
 

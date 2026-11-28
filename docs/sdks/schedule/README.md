@@ -1,5 +1,4 @@
 # Schedule
-(*schedule*)
 
 ## Overview
 

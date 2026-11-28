@@ -7,7 +7,7 @@
 
 ```typescript
 const value: operations.OrganizationDeleteResponseBody = {
-  createdAt: new Date("2023-08-10T09:57:21.766Z"),
+  createdAt: new Date("2024-08-09T09:57:21.766Z"),
   id: "<id>",
   logo: "<value>",
   metadata: "<value>",

@@ -1,5 +1,4 @@
 # Compose
-(*compose*)
 
 ## Overview
 

@@ -6,7 +6,7 @@
 import { DockerGetConfigRequest } from "dokploy-sdk/models/operations";
 
 let value: DockerGetConfigRequest = {
-  containerId: "<id>",
+  containerId: "abc",
 };
 ```
 
